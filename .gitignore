@@ -137,3 +137,4 @@ dmypy.json
 
 # IDEs
 .idea
+.idea/*
